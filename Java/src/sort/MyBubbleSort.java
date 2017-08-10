@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Sui
+ * @author ArchiTechdemic <Techdemic.com>
  */
 public class MyBubbleSort {
     
