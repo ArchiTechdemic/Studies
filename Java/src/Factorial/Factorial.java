@@ -72,7 +72,8 @@ public class Factorial {
             if (answer1 != answer2)  // both answer should be the same, alert if not
                 System.out.println ("*** Error dectected, the 2 answers are not equal");
         } else {
-            System.out.println ("Sorry, can't do factorial on negative number, please enter a positive number " + n);
+            System.out.println ("Sorry, can't do factorial on negative number : " + n + " please enter a positive number ");
+            
         } 
     }
 }
