@@ -23,7 +23,7 @@
  */
 
 
-package Rectangle;
+package rectangle;
 
 /**
  * This case study provide the logic to find some properties for rectangles.

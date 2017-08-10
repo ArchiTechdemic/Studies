@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package TowersOfHanoi;
+package towerofhanoi;
 
 import java.util.Scanner;
 

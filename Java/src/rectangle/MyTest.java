@@ -1,4 +1,4 @@
-package Rectangle;
+package rectangle;
 
 /*
  * The MIT License
@@ -25,7 +25,7 @@ package Rectangle;
  */
 
 
-import Rectangle.Rect;
+import rectangle.Rect;
 import java.util.Arrays;
 
 /**
